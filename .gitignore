@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+
+# Local-only project material
+NotRequired/
+goals/
+
+# Generated and temporary files
+build/
+logs/
+temp/
+*.log
+
+# Editor settings
+.idea/
+.vscode/
