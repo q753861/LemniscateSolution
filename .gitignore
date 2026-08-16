@@ -3,10 +3,9 @@
 ._*
 .Spotlight-V100/
 .Trashes/
-
-# Local-only project material
 NotRequired/
 goals/
+REMOTE_REUPLOAD_COMMANDS.md
 
 # Generated and temporary files
 build/
